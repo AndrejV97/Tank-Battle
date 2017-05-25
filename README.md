@@ -176,3 +176,5 @@
 
 1. New Game
 
+Кога ќе кликнете на копчето „New Game“, ви се отвара нова форма 
+![New Game](https://github.com/AndrejV97/Tank-Battle/tree/master/README%20-%20SLIKI/New%20Game.png)
