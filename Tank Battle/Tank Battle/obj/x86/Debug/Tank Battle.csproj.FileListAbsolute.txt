@@ -1,0 +1,20 @@
+C:\Users\y\AppData\Local\Temporary Projects\Tank Battle\bin\Debug\Tank Battle.exe
+C:\Users\y\AppData\Local\Temporary Projects\Tank Battle\bin\Debug\Tank Battle.pdb
+C:\Users\y\AppData\Local\Temporary Projects\Tank Battle\obj\x86\Debug\Tank_Battle.MenuForm.resources
+C:\Users\y\AppData\Local\Temporary Projects\Tank Battle\obj\x86\Debug\Tank_Battle.Properties.Resources.resources
+C:\Users\y\AppData\Local\Temporary Projects\Tank Battle\obj\x86\Debug\Tank Battle.csproj.GenerateResource.Cache
+C:\Users\y\AppData\Local\Temporary Projects\Tank Battle\obj\x86\Debug\Tank Battle.exe
+C:\Users\y\AppData\Local\Temporary Projects\Tank Battle\obj\x86\Debug\Tank Battle.pdb
+C:\Users\y\AppData\Local\Temporary Projects\Tank Battle\obj\x86\Debug\Tank_Battle.GameForm.resources
+D:\Program Files\Microsoft Visual Studio 10.0\Projects\Tank Battle\Tank Battle\obj\x86\Debug\Tank Battle.exe
+D:\Program Files\Microsoft Visual Studio 10.0\Projects\Tank Battle\Tank Battle\obj\x86\Debug\Tank Battle.pdb
+D:\Program Files\Microsoft Visual Studio 10.0\Projects\Tank Battle\Tank Battle\bin\Debug\Tank Battle.exe
+D:\Program Files\Microsoft Visual Studio 10.0\Projects\Tank Battle\Tank Battle\bin\Debug\Tank Battle.pdb
+D:\Program Files\Microsoft Visual Studio 10.0\Projects\Tank Battle\Tank Battle\obj\x86\Debug\Tank_Battle.GameForm.resources
+D:\Program Files\Microsoft Visual Studio 10.0\Projects\Tank Battle\Tank Battle\obj\x86\Debug\Tank_Battle.MenuForm.resources
+D:\Program Files\Microsoft Visual Studio 10.0\Projects\Tank Battle\Tank Battle\obj\x86\Debug\Tank_Battle.Properties.Resources.resources
+D:\Program Files\Microsoft Visual Studio 10.0\Projects\Tank Battle\Tank Battle\obj\x86\Debug\Tank Battle.csproj.GenerateResource.Cache
+D:\Program Files\Microsoft Visual Studio 10.0\Projects\Tank Battle\Tank Battle\obj\x86\Debug\Tank Battle.csprojResolveAssemblyReference.cache
+D:\Program Files\Microsoft Visual Studio 10.0\Projects\Tank Battle\Tank Battle\obj\x86\Debug\Tank_Battle.OptionsForm.resources
+D:\Program Files\Microsoft Visual Studio 10.0\Projects\Tank Battle\Tank Battle\obj\x86\Debug\Tank_Battle.LevelSelectForm.resources
+D:\Program Files\Microsoft Visual Studio 10.0\Projects\Tank Battle\Tank Battle\obj\x86\Debug\Tank_Battle.LevelCreatorForm.resources
